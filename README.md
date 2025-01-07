@@ -6,14 +6,12 @@
 - [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction)
 - (2 Hours Theory)  
 
-## Machine Learning
+## Part Two - Machine Learning
 
-Topics are as follows.
-
-### [Decision Tree]()
+### Lecture Two - [Decision Tree](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/DecisionTree)
 - (1 Hour Theory) + (1 Hour Practical)
 
-### [Random Forest]()
+### Lecture Three - [Random Forest](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/RandomForest)
 - (1 Hour Theory) + (1 Hour Practical)
 
 ### [Linear Regression](https://github.com/look4pritam/LinearRegression)

@@ -15,3 +15,15 @@
 ## Lecture Four
 - [Recurrent Neural Network](https://github.com/look4pritam/RecurrentNeuralNetwork)
 - (1 Hour Theory) + (1 Hour Practical)
+
+## Lecture Five
+- Model Centric AI
+  - Model Selection
+  - Neural Architecture Search
+  - Hyperparameter Search
+- (1 Hour Theory) 
+  
+## Lecture Six
+- Data-Centric-AI
+  - Data augmentation
+- (1 Hour Theory) 

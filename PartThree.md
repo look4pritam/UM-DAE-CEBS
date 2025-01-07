@@ -1,0 +1,17 @@
+# Part Three
+
+## Lecture One
+- [Artificial Neural Network](https://github.com/look4pritam/ArtificialNeuralNetwork)
+- (1 Hour Theory) + (1 Hour Practical)
+
+## Lecture Two
+- [Convolutional Neural Network](https://github.com/look4pritam/ConvolutionalNeuralNetwork)
+- (1 Hour Theory) + (1 Hour Practical)
+
+## Lecture Three
+- [ResNet](https://github.com/look4pritam/ConvolutionalNeuralNetwork)
+- (1/2 Hour Theory) + (1/2 Hour Practical)
+
+## Lecture Four
+- [Recurrent Neural Network](https://github.com/look4pritam/RecurrentNeuralNetwork)
+- (1 Hour Theory) + (1 Hour Practical)

@@ -1,16 +1,9 @@
 # CE-1004 (Machine Learning & Deep Learning)
 
-## Part One - Introduction
+## [Part One](PartOne.md)
+- Introduction
 - Two lectures
-
-### Lecture One 
-- [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction)
-- (2 Hours Theory)  
-
-### Lecture Two
-- [Machine Learning Project Lifecycle](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/MachineLearningProjectLifecycle) 
-- (2 Hours Theory)
-
+  
 ## Part Two - Machine Learning
 - Eight lectures
 

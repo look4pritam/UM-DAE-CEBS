@@ -65,17 +65,9 @@
 - [Recurrent Neural Network](https://github.com/look4pritam/RecurrentNeuralNetwork)
 - (1 Hour Theory) + (1 Hour Practical)
 
-## Concepts
-
-### [Knowledge Distillation](https://github.com/look4pritam/KnowledgeDistillation)
-- (1 Hour Theory) + (1 Hour Practical)
-
-### [Surrogate Models](https://github.com/look4pritam/SurrogateModels)
-- (1 Hour Theory)
-
-
-## Generative AI
-
+## Part Four - Generative AI
+- lectures
+  
 ### [Generative Adversarial Networks](https://github.com/look4pritam/GenerativeAdversarialNetworks)
 - (1 Hour Theory) + (1 Hour Practical)
 
@@ -87,6 +79,16 @@
 
 ### [Retrieval Augmented Generation](https://github.com/look4pritam/RetrievalAugmentedGeneration)
 - (1 Hour Theory) + (1 Hour Practical)
+
+## Concepts
+
+### [Knowledge Distillation](https://github.com/look4pritam/KnowledgeDistillation)
+- (1 Hour Theory) + (1 Hour Practical)
+
+### [Surrogate Models](https://github.com/look4pritam/SurrogateModels)
+- (1 Hour Theory)
+
+
 
 ## [AI Deployment](https://github.com/look4pritam/AI-Deployment)
 

@@ -20,17 +20,9 @@
 - AI Deployment
 - 2 lectures
 
-## Concepts
-
-### [Knowledge Distillation](https://github.com/look4pritam/KnowledgeDistillation)
-- (1 Hour Theory) + (1 Hour Practical)
-
-### [Surrogate Models](https://github.com/look4pritam/SurrogateModels)
-- (1 Hour Theory)
-
-
-
-
+## [Part Six](PartSix.md)
+- Concepts
+- 2 lectures
   
 ### [NVIDIA Triton Inference Server](https://github.com/look4pritam/AI-Deployment/NVIDIA-Triton-Inference-Server)
 - (1 Hour Theory + Practical)

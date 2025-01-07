@@ -46,19 +46,23 @@
 - Principal Component Analysis
 - (1 Hour Theory) + (1 Hour Practical)
 
-## Deep Learning  
-
-### [Artificial Neural Network](https://github.com/look4pritam/ArtificialNeuralNetwork)
+## Part Three - Deep Learning  
+- Four lectures
+  
+### Lecture One
+- [Artificial Neural Network](https://github.com/look4pritam/ArtificialNeuralNetwork)
 - (1 Hour Theory) + (1 Hour Practical)
 
-### [Convolutional Neural Network](https://github.com/look4pritam/ConvolutionalNeuralNetwork)
-- Convolutional Neural Network - (1 Hour Theory) + (1 Hour Practical)
-- ResNet - (1/2 Hour Theory) + (1/2 Hour Practical)
-
-### [Recurrent Neural Network](https://github.com/look4pritam/RecurrentNeuralNetwork)
+### Lecture Two
+- [Convolutional Neural Network](https://github.com/look4pritam/ConvolutionalNeuralNetwork)
 - (1 Hour Theory) + (1 Hour Practical)
 
-### [Transformers](https://github.com/look4pritam/Transformers)
+### Lecture Three
+- [ResNet](https://github.com/look4pritam/ConvolutionalNeuralNetwork)
+- (1/2 Hour Theory) + (1/2 Hour Practical)
+
+### Lecture Four
+- [Recurrent Neural Network](https://github.com/look4pritam/RecurrentNeuralNetwork)
 - (1 Hour Theory) + (1 Hour Practical)
 
 ## Concepts
@@ -73,6 +77,9 @@
 ## Generative AI
 
 ### [Generative Adversarial Networks](https://github.com/look4pritam/GenerativeAdversarialNetworks)
+- (1 Hour Theory) + (1 Hour Practical)
+
+### [Transformers](https://github.com/look4pritam/Transformers)
 - (1 Hour Theory) + (1 Hour Practical)
 
 ### [Large Language Models](https://github.com/look4pritam/LargeLanguageModels)

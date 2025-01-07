@@ -1,6 +1,7 @@
 # CE-1004 (Machine Learning & Deep Learning)
 
 ## Part One - Introduction
+- Two lectures
 
 ### Lecture One 
 - [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction)
@@ -25,18 +26,20 @@
 - (1 Hour Theory) + (1 Hour Practical)
 
 ### Lecture Six
-- [Naive Bayes]()
+- [Naive Bayes](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/NaiveBayes)
 - (1 Hour Theory) + (1 Hour Practical)
 
-### [Support Vector Machine]()
+### Lecture Seven
+- Support Vector Machine
 - (1 Hour Theory) + (1 Hour Practical)
 
-### [K-Means Clustering]()
+### Lecture Eight 
+- [K-Means Clustering](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/K-MeansClustering)
 - (1 Hour Theory) + (1 Hour Practical)
 
-### [PrincipalComponentAnalysis](https://github.com/look4pritam/PrincipalComponentAnalysis)
+### Lecture Nine
+- Principal Component Analysis
 - (1 Hour Theory) + (1 Hour Practical)
-
 
 ## Deep Learning  
 

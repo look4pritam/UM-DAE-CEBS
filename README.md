@@ -2,30 +2,19 @@
 
 ## [Part One](PartOne.md)
 - Introduction
-- Two lectures
+- 2 lectures
   
 ## [Part Two ](PartTwo.md)
 - Machine Learning
-- Eight lectures
+- 8 lectures
 
 ## [Part Three](PartThree.md)
 - Deep Learning  
-- Four lectures
+- 4 lectures
 
-## Part Four - Generative AI
-- lectures
-  
-### [Generative Adversarial Networks](https://github.com/look4pritam/GenerativeAdversarialNetworks)
-- (1 Hour Theory) + (1 Hour Practical)
-
-### [Transformers](https://github.com/look4pritam/Transformers)
-- (1 Hour Theory) + (1 Hour Practical)
-
-### [Large Language Models](https://github.com/look4pritam/LargeLanguageModels)
-- (1 Hour Theory) + (1 Hour Practical)
-
-### [Retrieval Augmented Generation](https://github.com/look4pritam/RetrievalAugmentedGeneration)
-- (1 Hour Theory) + (1 Hour Practical)
+## [Part Four](PartFour.md)
+- Generative AI
+- 4 to 5 lectures
 
 ## Concepts
 

@@ -7,7 +7,16 @@
 - [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction)
 - (2 Hours Theory)  
 
+### Lecture Two
+- [Machine Learning Project Lifecycle](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/MachineLearningProjectLifecycle) 
+- (2 Hours Theory)
+
 ## Part Two - Machine Learning
+- Eight lectures
+
+### Lecture One 
+- [K-Means Clustering](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/K-MeansClustering)
+- (1 Hour Theory) + (1 Hour Practical)
 
 ### Lecture Two 
 - [Decision Tree](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/DecisionTree)
@@ -33,18 +42,11 @@
 - Support Vector Machine
 - (1 Hour Theory) + (1 Hour Practical)
 
-### Lecture Eight 
-- [K-Means Clustering](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/K-MeansClustering)
-- (1 Hour Theory) + (1 Hour Practical)
-
-### Lecture Nine
+### Lecture Eight
 - Principal Component Analysis
 - (1 Hour Theory) + (1 Hour Practical)
 
 ## Deep Learning  
-
-### [Machine Learning Project Lifecycle](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/MachineLearningProjectLifecycle) 
-- (2 Hours Theory)
 
 ### [Artificial Neural Network](https://github.com/look4pritam/ArtificialNeuralNetwork)
 - (1 Hour Theory) + (1 Hour Practical)

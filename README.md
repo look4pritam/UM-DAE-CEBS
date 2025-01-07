@@ -16,6 +16,10 @@
 - Generative AI
 - 4 to 5 lectures
 
+## [Part Five](PartFive.md)
+- [AI Deployment](https://github.com/look4pritam/AI-Deployment)
+- 2 lectures
+
 ## Concepts
 
 ### [Knowledge Distillation](https://github.com/look4pritam/KnowledgeDistillation)
@@ -26,13 +30,7 @@
 
 
 
-## [AI Deployment](https://github.com/look4pritam/AI-Deployment)
 
-### [Edge AI](https://github.com/look4pritam/AI-Deployment/Edge-AI) 
-- (1 Hour Theory)
-  
-### [Cloud AI](https://github.com/look4pritam/AI-Deployment/Cloud-AI) 
-- (1 Hour Theory)
   
 ### [NVIDIA Triton Inference Server](https://github.com/look4pritam/AI-Deployment/NVIDIA-Triton-Inference-Server)
 - (1 Hour Theory + Practical)

@@ -7,3 +7,7 @@
 ## Lecture Two
 - [Surrogate Models](https://github.com/look4pritam/SurrogateModels)
 - (1 Hour Theory)
+
+## Lecture Three
+- [Federated Learning](https://github.com/look4pritam/FederatedLearning)
+- (1 Hour Theory)

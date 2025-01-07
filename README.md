@@ -17,7 +17,7 @@
 - 4 to 5 lectures
 
 ## [Part Five](PartFive.md)
-- [AI Deployment](https://github.com/look4pritam/AI-Deployment)
+- AI Deployment
 - 2 lectures
 
 ## Concepts

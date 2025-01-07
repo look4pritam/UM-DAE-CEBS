@@ -1,7 +1,10 @@
 # CE-1004 (Machine Learning & Deep Learning)
 
-## [Introduction](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction)
-- [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction) - (2 Hours Theory)  
+## Part One - [Introduction](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction)
+
+### Lecture One 
+- [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction)
+- (2 Hours Theory)  
 
 ## Machine Learning
 

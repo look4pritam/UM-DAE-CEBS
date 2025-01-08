@@ -3,6 +3,10 @@
 ## [Part One](PartOne.md)
 - Introduction
 - 2 lectures
+
+## [Part Two]()
+- Fundamentals of Learning Theory
+- 6 lectures
   
 ## [Part Two ](PartTwo.md)
 - Machine Learning

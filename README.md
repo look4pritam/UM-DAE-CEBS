@@ -27,3 +27,6 @@
 ## [Part Seven](PartSix.md)
 - Concepts
 - 2 lectures
+
+## Project Work
+- [Link](https://github.com/look4pritam/AI-Applications)

@@ -1,6 +1,6 @@
 # CE-1004 (Machine Learning & Deep Learning)
 
-## [Part One](PartOne.md)
+## [Part One](Introduction.md)
 - Introduction
 - 2 lectures
 

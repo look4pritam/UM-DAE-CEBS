@@ -28,5 +28,5 @@
 - Concepts
 - 2 lectures
 
-## Project Work
-- [Link](https://github.com/look4pritam/AI-Applications)
+## [Project Work](https://github.com/look4pritam/AI-Applications)
+- 20 Marks

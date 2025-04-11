@@ -1,4 +1,4 @@
-# Part Four
+# Generative AI
 
 ## [Generative Adversarial Networks](https://github.com/look4pritam/GenerativeAdversarialNetworks)
 - (1 Hour Theory) + (1 Hour Practical)

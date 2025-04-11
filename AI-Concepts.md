@@ -1,4 +1,4 @@
-# Part Six
+# AI Concepts
 
 ## Lecture One
 - [Knowledge Distillation](https://github.com/look4pritam/KnowledgeDistillation)

@@ -1,4 +1,4 @@
-# Machine Learning
+# Deep Learning
 
 ## Lecture One
 - [Artificial Neural Network](https://github.com/look4pritam/ArtificialNeuralNetwork)

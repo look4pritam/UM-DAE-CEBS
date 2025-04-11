@@ -20,7 +20,7 @@
 - Generative AI
 - 4 to 5 lectures
 
-## [Part Six](PartFive.md)
+## [Part Six](AI-Deployment.md)
 - AI Deployment
 - 2 lectures
 

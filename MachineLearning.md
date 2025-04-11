@@ -1,4 +1,4 @@
-# Part Two
+# Machine Learning
 
 ## Lecture One 
 - [K-Means Clustering](https://github.com/look4pritam/ArtificialIntelligence/tree/master/MachineLearning/K-MeansClustering)

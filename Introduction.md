@@ -1,4 +1,4 @@
-# Part One
+# Introduction
 
 ## Lecture One 
 - [Introduction to AI, ML, and DL](https://github.com/look4pritam/ArtificialIntelligence/tree/master/Introduction/Introduction)

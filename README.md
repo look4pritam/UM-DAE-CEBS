@@ -8,15 +8,15 @@
 - Fundamentals of Learning Theory
 - 6 lectures
   
-## [Part Three ](PartTwo.md)
+## [Part Three ](MachineLearning.md)
 - Machine Learning
 - 8 lectures
 
-## [Part Four](PartThree.md)
+## [Part Four](DeepLearning.md)
 - Deep Learning  
 - 4 lectures
 
-## [Part Five](PartFour.md)
+## [Part Five](Generative-AI.md)
 - Generative AI
 - 4 to 5 lectures
 

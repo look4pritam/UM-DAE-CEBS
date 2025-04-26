@@ -1,7 +1,6 @@
 # CE-1004 (Machine Learning & Deep Learning)
 
-## [Part One](Introduction.md)
-- Introduction
+## [Introduction - Part One](Introduction.md)
 - 2 lectures
 
 ## [Part Two](https://github.com/Shishir-Kumar-Singh/FoLP)

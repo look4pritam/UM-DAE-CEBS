@@ -13,7 +13,6 @@
 - 4 lectures
 
 ## [Generative AI](Generative-AI.md)
-- Generative AI
 - 4 to 5 lectures
 
 ## [AI Deployment](AI-Deployment.md)

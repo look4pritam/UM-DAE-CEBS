@@ -16,10 +16,9 @@
 - 4 to 5 lectures
 
 ## [AI Deployment](AI-Deployment.md)
-- 1 lecture
+- 2 lectures
 
-## [Part Seven](PartSix.md)
-- Concepts
+## [Concepts](PartSix.md)
 - 2 lectures
 
 ## [Project Work](https://github.com/look4pritam/AI-Applications)

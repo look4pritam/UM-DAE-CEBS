@@ -1,27 +1,23 @@
 # CE-1004 (Machine Learning & Deep Learning)
 
-## [Introduction - Part One](Introduction.md)
+## [Introduction](Introduction.md)
 - 2 lectures
 
-## [Part Two](https://github.com/Shishir-Kumar-Singh/FoLP)
-- Fundamentals of Learning Theory
+## [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
 - 6 lectures
   
-## [Part Three ](MachineLearning.md)
-- Machine Learning
+## [Machine Learning](MachineLearning.md)
 - 8 lectures
 
-## [Part Four](DeepLearning.md)
-- Deep Learning  
+## [Deep Learning](DeepLearning.md)
 - 4 lectures
 
-## [Part Five](Generative-AI.md)
+## [Generative AI](Generative-AI.md)
 - Generative AI
 - 4 to 5 lectures
 
-## [Part Six](AI-Deployment.md)
-- AI Deployment
-- 2 lectures
+## [AI Deployment](AI-Deployment.md)
+- 1 lecture
 
 ## [Part Seven](PartSix.md)
 - Concepts

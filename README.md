@@ -30,10 +30,11 @@
   - 2026-03-11
   - 2026-03-12
   - 2026-03-18
-  - 2026-03-19
+  - 2026-03-25
 
 ## [AI Deployment](AI-Deployment.md)
 - 1 lectures
+  - 2026-03-26
 
 ## [Concepts](AI-Concepts.md)
 - 2 lectures

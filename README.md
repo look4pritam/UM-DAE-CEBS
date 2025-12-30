@@ -38,6 +38,8 @@
 
 ## [Concepts](AI-Concepts.md)
 - 2 lectures
+  - 2026-04-01
+  - 2026-04-02
 
 ## [Project Work](https://github.com/look4pritam/AI-Applications)
 - 20 Marks

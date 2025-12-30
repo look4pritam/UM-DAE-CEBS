@@ -12,10 +12,10 @@
 ## [Generative AI](Generative-AI.md)
 - 4 to 5 lectures
 
-## [AI Deployment](AI-Deployment.md)
-- 2 lectures
+## [Concepts](AI-Concepts.md)
+- 3 lectures
 
-## [Concepts](PartSix.md)
+## [AI Deployment](AI-Deployment.md)
 - 2 lectures
 
 ## [Project Work](https://github.com/look4pritam/AI-Applications)

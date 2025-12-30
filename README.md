@@ -24,13 +24,13 @@
   - 2026-02-19
 
 ## [Generative AI](Generative-AI.md)
-- 6 lectures
-  - 2026-02-25
-  - 2026-02-26
+- 6 lectures  
   - 2026-03-04
   - 2026-03-05
   - 2026-03-11
   - 2026-03-12
+  - 2026-03-18
+  - 2026-03-19
 
 ## [AI Deployment](AI-Deployment.md)
 - 1 lectures

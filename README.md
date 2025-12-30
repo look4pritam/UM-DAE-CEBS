@@ -7,6 +7,12 @@
   
 ## [Machine Learning](MachineLearning.md)
 - 6 lectures
+  - 2026-01-14
+  - 2026-01-15
+  - 2026-01-21
+  - 2026-01-22
+  - 2026-01-28
+  - 2026-01-29
 
 ## [Deep Learning](DeepLearning.md)
 - 6 lectures

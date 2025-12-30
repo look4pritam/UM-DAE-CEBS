@@ -13,7 +13,7 @@
 - 4 lectures
 
 ## [Concepts](AI-Concepts.md)
-- 3 lectures
+- 2 lectures
 
 ## [AI Deployment](AI-Deployment.md)
 - 2 lectures

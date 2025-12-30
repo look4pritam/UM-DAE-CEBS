@@ -10,7 +10,7 @@
 - 4 lectures
 
 ## [Generative AI](Generative-AI.md)
-- 4 to 5 lectures
+- 4 lectures
 
 ## [Concepts](AI-Concepts.md)
 - 3 lectures

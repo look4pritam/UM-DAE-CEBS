@@ -4,7 +4,7 @@
 - 2 lectures
  
 ## [Machine Learning](MachineLearning.md)
-- 8 lectures
+- 6 lectures
 
 ## [Deep Learning](DeepLearning.md)
 - 4 lectures
@@ -21,6 +21,7 @@
 ## [Project Work](https://github.com/look4pritam/AI-Applications)
 - 20 Marks
 
-## [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
-- 6 lectures
+## Optional
 
+### [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
+- 6 lectures

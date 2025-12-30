@@ -2,15 +2,15 @@
 
 ## [Introduction](Introduction.md)
 - 2 lectures
- 
+  
 ## [Machine Learning](MachineLearning.md)
 - 6 lectures
 
 ## [Deep Learning](DeepLearning.md)
-- 4 lectures
+- 6 lectures
 
 ## [Generative AI](Generative-AI.md)
-- 4 lectures
+- 6 lectures
 
 ## [Concepts](AI-Concepts.md)
 - 2 lectures
@@ -24,4 +24,4 @@
 ## Optional
 
 ### [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
-- 6 lectures
+- 4 lectures

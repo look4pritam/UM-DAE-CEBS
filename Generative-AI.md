@@ -11,3 +11,7 @@
 
 ## [Retrieval Augmented Generation](https://github.com/look4pritam/RetrievalAugmentedGeneration)
 - (1 Hour Theory) + (1 Hour Practical)
+
+## [Diffusion Models](https://github.com/look4pritam/DiffusionModels)
+- (1 Hour Theory) + (1 Hour Practical)
+

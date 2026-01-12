@@ -1,4 +1,4 @@
-# CE-1004 (Machine Learning & Deep Learning)
+# CE-1004 - Artificial Intelligence (AI) and Machine Learning (ML)
 
 ## [Introduction](Introduction.md)
 - 2 lectures

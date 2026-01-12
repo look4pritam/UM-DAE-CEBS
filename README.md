@@ -42,7 +42,7 @@
 ## [Project Work](https://github.com/look4pritam/AI-Applications)
 - 20 Marks
 
-## Optional
+## [Optional](https://github.com/look4pritam/UM-DAE-CEBS)
 
 ### [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
 - 4 lectures

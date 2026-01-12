@@ -2,8 +2,6 @@
 
 ## [Introduction](Introduction.md)
 - 2 lectures
-  - 2026-01-07
-  - 2026-01-08
   
 ## [Machine Learning](MachineLearning.md)
 - 6 lectures

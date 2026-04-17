@@ -2,7 +2,7 @@
 
 ## Lecture One
 - [Knowledge Distillation](https://github.com/look4pritam/KnowledgeDistillation)
-- (1 Hour Theory) + (1 Hour Practical)
+- (1 Hour Theory)
 
 ## Lecture Two
 - [Federated Learning](https://github.com/look4pritam/FederatedLearning)

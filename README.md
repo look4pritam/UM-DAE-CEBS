@@ -20,5 +20,3 @@
 
 ## [AI Deployment](AI-Deployment.md)
 - 1 lectures
-
-

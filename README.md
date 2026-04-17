@@ -18,5 +18,5 @@
 ## [AI Deployment](AI-Deployment.md)
 - 1 lectures
 
-### [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
+## [Fundamentals of Learning Theory](https://github.com/Shishir-Kumar-Singh/FoLP)
 - 4 lectures

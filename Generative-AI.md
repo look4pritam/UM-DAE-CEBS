@@ -7,7 +7,7 @@
 - (1 Hour Theory) + (1 Hour Practical)
 
 ## [Large Language Models](https://github.com/look4pritam/LargeLanguageModels)
-- (1 Hour Theory) + (1 Hour Practical)
+- 2 lectures
 
 ## [Agentic-AI](https://github.com/look4pritam/Agentic-AI)
 - (1 Hour Theory) + (1 Hour Practical)
